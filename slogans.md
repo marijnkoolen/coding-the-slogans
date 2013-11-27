@@ -37,7 +37,7 @@ output: slogans.html
 + support addresses a problem once, training removes the problem
 + researchers/students become more autonomous
 + researchers/students take ownership of their tools
-+ support can be utilized where it is most needed (also 1)
++ support can be utilized where it is most needed (see also point 1)
   + absolute beginners
   + advanced users
   + edge cases
@@ -53,7 +53,7 @@ output: slogans.html
 + aid learning through peer feedback and group projects
 + open source ideal for international collaboration
 + platform grows through individual contributions
-+ GitHub 
++ Version Control (Git)
   + encourages sharing, re-use, modification
   + guides versioning of large collaborative projects
 
@@ -72,6 +72,6 @@ output: slogans.html
 
 ### 5. Experimentation over Reproduction 
 
-+ researchers/students should own (=create) their own tools
++ humanists should own (= create) their tools
 + prefabricated tools often inappropriate and lead to tunnel vision
 + modifying tools creates new insights and research questions
