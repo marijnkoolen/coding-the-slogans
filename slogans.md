@@ -9,7 +9,7 @@ output: slogans.html
 + Training over Support
 + Collaboration over Ownership
 + Best Practices over Standards
-+ Experimentation of Reproduction
++ Experimentation over Reproduction
 
 --
 
@@ -47,7 +47,7 @@ output: slogans.html
 ### 3. Collaboration over Ownership
 
 + restricting access to tools and data hampers visibility and impact
-+ collaboration is one of the great strength of digital research
++ collaboration is one of the great strengths of digital research
 + digital environments facilitate collaboration
 + divide labor through different tasks and skill sets
 + aid learning through peer feedback and group projects
