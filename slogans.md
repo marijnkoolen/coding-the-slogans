@@ -9,6 +9,7 @@ output: slogans.html
 + Training over Support
 + Collaboration over Ownership
 + Best Practices over Standards
++ Experimentation of Reproduction
 
 --
 
@@ -33,7 +34,7 @@ output: slogans.html
 
 ### 2. Training over Support
 
-+ support addresses a problem once, education removes the problem
++ support addresses a problem once, training removes the problem
 + researchers/students become more autonomous
 + researchers/students take ownership of their tools
 + support can be utilized where it is most needed (also 1)
@@ -44,10 +45,17 @@ output: slogans.html
 --
 
 ### 3. Collaboration over Ownership
-w
-+ collaboration requires openness and sharing
-+ we're not against ownership, but 
-+ version control
+
++ restricting access to tools and data hampers visibility and impact
++ collaboration is one of the great strength of digital research
++ digital environments facilitate collaboration
++ divide labor through different tasks and skill sets
++ aid learning through peer feedback and group projects
++ open source ideal for international collaboration
++ platform grows through individual contributions
++ GitHub 
+  + encourages sharing, re-use, modification
+  + guides versioning of large collaborative projects
 
 --
 
@@ -65,3 +73,5 @@ w
 ### 5. Experimentation over Reproduction 
 
 + researchers/students should own (=create) their own tools
++ prefabricated tools often inappropriate and lead to tunnel vision
++ modifying tools creates new insights and research questions
