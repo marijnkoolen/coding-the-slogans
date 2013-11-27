@@ -6,39 +6,62 @@ output: slogans.html
 ### Digital Environment for Learning and Research
 
 + Convention over Configuration
-+ Education over Support
++ Training over Support
 + Collaboration over Ownership
 + Best Practices over Standards
 
 --
 
-### Convention over Configuration
+### 1. Convention over Configuration
 
-+ preferred technology stack, only deviate when necessary
-+ majority of problems can be addressed with same technology
-+ eases learning curve, communication
-+ promotes sharing, 
++ preferred, state of the art, technology stack
+  + Node
+  + Express
+  + MongoDB
+  + AngularJS
++ majority of problems can be addressed with this stack
++ deviations from this stack are possible on individual basis
++ Training can be developed specifically for this stack
++ Shared stack allows focus on research rather than technology
++ Shared stack enables specialized support
++ Shared stack actively encourages sharing
+  + tools 
+  + (best) practices 
+  + data sets
 
 --
 
-### Education over support
+### 2. Training over Support
 
 + support addresses a problem once, education removes the problem
-+ researchers and students become more self-reliant
++ researchers/students become more autonomous
++ researchers/students take ownership of their tools
++ support can be utilized where it is most needed (also 1)
+  + absolute beginners
+  + advanced users
+  + edge cases
 
 --
 
-### Collaboration over Ownership
-
+### 3. Collaboration over Ownership
+w
 + collaboration requires openness and sharing
 + we're not against ownership, but 
 + version control
 
 --
 
-### Best Practices over Standards
+### 4. Best Practices over Standards
 
-+ standards assume consistency, a static world
-+ standards start imperfect, become outdated quickly
-+ 
++ Best practices are dynamic and adaptive
++ Best practices are important for (future) employers
++ Best practices allow collaboration
++ Best practices encourage maintainability
++ Best practices enable discussion 
++ Best practices can be shared/taught
 
+--
+
+### 5. Experimentation over Reproduction 
+
++ researchers/students should own (=create) their own tools
