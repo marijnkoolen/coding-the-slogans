@@ -55,7 +55,7 @@ output: slogans.html
 + platform grows through individual contributions
 + Version Control (Git)
   + encourages sharing, re-use, modification
-  + guides versioning of large collaborative projects
+  + guides versioning for large collaborative projects
 
 --
 
@@ -75,3 +75,4 @@ output: slogans.html
 + humanists should own (= create) their tools
 + prefabricated tools often inappropriate and lead to tunnel vision
 + modifying tools creates new insights and research questions
+
