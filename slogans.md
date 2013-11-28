@@ -13,7 +13,7 @@ output: slogans.html
 
 --
 
-### 1. Convention over Configuration
+### 1. Convention over Configuration (1/2)
 
 + preferred, state of the art, technology stack
   + Node
@@ -22,6 +22,11 @@ output: slogans.html
   + AngularJS
 + majority of problems can be addressed with this stack
 + deviations from this stack are possible on individual basis
+
+--
+
+### 1. Convention over Configuration (2/2)
+
 + Training can be developed specifically for this stack
 + Shared stack allows focus on research rather than technology
 + Shared stack enables specialized support
@@ -44,13 +49,18 @@ output: slogans.html
 
 --
 
-### 3. Collaboration over Ownership
+### 3. Collaboration over Ownership (1/2)
 
 + restricting access to tools and data hampers visibility and impact
 + collaboration is one of the great strengths of digital research
 + digital environments facilitate collaboration
 + divide labor through different tasks and skill sets
 + aid learning through peer feedback and group projects
+
+--
+
+### 3. Collaboration over Ownership (2/2)
+
 + open source ideal for international collaboration
 + platform grows through individual contributions
 + Version Control (Git)
